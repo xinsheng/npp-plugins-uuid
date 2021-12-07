@@ -1,3 +1,5 @@
-This plugin give an easy way to generate uuid in notepad++.
+This plugin give an easy way to generate UUID in notepad++.
 
-Notepad++ -> Plugins -> UUID Tools -> New guid/GUID
+Copy `NppPluginUUIDTool.dll` to `C:\Program Files (x86)\Notepad++\plugins` if you install notepad++ to default folder.
+
+![screenshot](C:\filebase\github\npp-plugins-uuid\screenshot.png)
